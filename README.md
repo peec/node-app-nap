@@ -2,6 +2,10 @@
 
 This Node module disables app nap for the currently running process by starting an activity.
 
+#### Tested on node
+
+- 14.2.0
+
 #### Usage
 
 ```
