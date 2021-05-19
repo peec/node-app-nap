@@ -16,7 +16,6 @@
     "node-gyp": "^3.4.0"
   },
   "dependencies": {
-    "bindings": "^1.2.1"
   },
   "gypfile": true
 }
